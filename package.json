@@ -1,0 +1,11 @@
+{
+  "name": "random-image-site",
+  "version": "1.0.0",
+  "description": "display a random image from my directory",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Roger Huntley II",
+  "license": "ISC"
+}
